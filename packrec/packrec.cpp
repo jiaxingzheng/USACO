@@ -3,6 +3,13 @@ ID: xing6231
 PROG: packrec
 LANG: C++
 */
+//
+//  packrec.cpp
+//
+//
+//  Created by  Ö£¼ÑÐË on 13-11-14.
+//  Copyright (c) 2013Äê  Ö£¼ÑÐË. All rights reserved.
+//
 #include <iostream>
 #include <fstream>
 #include <string>

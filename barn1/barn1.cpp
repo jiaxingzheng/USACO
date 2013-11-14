@@ -3,6 +3,13 @@ ID: xing6231
 PROG: barn1
 LANG: C++
 */
+//
+//  barn1.cpp
+//
+//
+//  Created by  Ö£¼ÑÐË on 13-11-10.
+//  Copyright (c) 2013Äê  Ö£¼ÑÐË. All rights reserved.
+//
 #include <iostream>
 #include <fstream>
 #include <string>

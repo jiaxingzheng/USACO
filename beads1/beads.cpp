@@ -3,6 +3,13 @@ ID: xing6231
 PROG: beads
 LANG: C++
 */
+//
+//  beads.cpp
+//
+//
+//  Created by  Ö£¼ÑÐË on 13-11-04.
+//  Copyright (c) 2013Äê  Ö£¼ÑÐË. All rights reserved.
+//
 #include <iostream>
 #include <fstream>
 #include <string>

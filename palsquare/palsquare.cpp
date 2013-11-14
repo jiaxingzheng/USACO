@@ -3,6 +3,13 @@ ID: xing6231
 PROG: palsquare
 LANG: C++
 */
+//
+//  palsquare.cpp
+//
+//
+//  Created by  Ö£¼ÑÐË on 13-11-07.
+//  Copyright (c) 2013Äê  Ö£¼ÑÐË. All rights reserved.
+//
 #include <iostream>
 #include <fstream>
 #include <string>
