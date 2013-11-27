@@ -79,6 +79,11 @@ build/
 *.scc
 *.exe
 *.txt
+*.rc
+*.xml
+*.cbp
+*.layout
+*.ico
 
 # Visual C++ cache files
 ipch/
